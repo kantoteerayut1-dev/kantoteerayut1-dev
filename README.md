@@ -1,9 +1,10 @@
-## Hi there 👋
+# About me 👋
 
-<!--
+
 **kantoteerayut1-dev/kantoteerayut1-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- Music<img width="72" height="72" alt="download" src="https://github.com/user-attachments/assets/5c2a432b-a872-417a-97df-b624d4a79b4a" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- Sleep<img width="72" height="72" alt="download" src="https://github.com/user-attachments/assets/ff219720-e6d0-4690-a6e8-60da3e1f6564" />
+
+-  Gamer<img width="72" height="72" alt="download" src="https://github.com/user-attachments/assets/96dc0122-0ee4-4a04-8de3-65214aedc0d1" />
